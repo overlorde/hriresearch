@@ -30,7 +30,7 @@ no source. where source
 > [!PDF|red] [[HRI_Misty_Menu_Draft_0.pdf#page=1&selection=117,0,118,57&color=red|HRI_Misty_Menu_Draft_0, p.1]]
 > > We compare two common response styles on Misty II during order placement: positive reinforcement vs upselling—in a
 
-NO source
+its ok no soruce needed for that
 
 > [!PDF|red] [[HRI_Misty_Menu_Draft_0.pdf#page=1&selection=148,29,151,12&color=red|HRI_Misty_Menu_Draft_0, p.1]]
 > > Studies of restaurant robots like Pepper and Relay show that being polite, showing emotion, and talking like a human make customers more willing to interact [5]
@@ -41,7 +41,7 @@ The source is ok
 > [!PDF|red] [[HRI_Misty_Menu_Draft_0.pdf#page=1&selection=157,0,165,3&color=red|HRI_Misty_Menu_Draft_0, p.1]]
 > > Positive reinforcement means praising people when they do something, which makes them want to do it again. In robot research, warmth and competence have been shown to increase trust [6]. For human servers, the evidence is clear: waiters who complimented customers (“You made an excellent choice”) got higher tips and better ratings [3], [7]. This kind of talk makes people feel good and improves how they see the service. But we don’t know if it works the same way when a robot does it.
 
-this paragraph doesn't make sense 
+this paragraph doesn't make quite a sense and it seems off
 
 We define positive reinforcement as the act of praising people when they are have expressed their desire for something, in our case, any food from the restaurant. For human servers, who did that, usually got higher tips and better ratings, as we have seen from social and economics research from B. Rind et al and M. Lynn et al. [3,7]
 
