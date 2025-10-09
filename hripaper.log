@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.10.24)  9 OCT 2025 11:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.10.24)  9 OCT 2025 12:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **hripaper.tex
-(./hripaper.tex
+(/home/dante/work/uic-academics/fall25/531/week7/hripaper.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21>
 (/usr/share/texlive/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
@@ -251,7 +251,7 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count282
 \l__pdf_internal_box=\box54
 )
-(./hripaper.aux)
+(/home/dante/work/uic-academics/fall25/531/week7/hripaper.aux)
 \openout1 = `hripaper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -300,27 +300,28 @@ Underfull \hbox (badness 1845) in paragraph at lines 45--46
 
 
 ] [2]
-Underfull \hbox (badness 3838) in paragraph at lines 113--114
+Underfull \hbox (badness 3838) in paragraph at lines 117--118
 []\OT1/ptm/m/n/10 Misty's di-a-logue will be pow-ered by MistyGPT, a
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 134
+[3]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 138
 .
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 134
+LaTeX Font Info:    Trying to load font information for U+msb on input line 138
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [3]
-Underfull \hbox (badness 2564) in paragraph at lines 165--166
+)
+Underfull \hbox (badness 2564) in paragraph at lines 169--170
 []\OT1/ptm/m/n/10 Environmental vari-ables such as light-ing, back-ground
  []
 
 [4] [5]
-Underfull \hbox (badness 5893) in paragraph at lines 304--304
+Underfull \hbox (badness 5893) in paragraph at lines 317--317
  \OT1/ptm/m/it/10 E. Sec-tion E: Tip-ping Be-hav-ior (Be-hav-ioral Mea-sure;
  []
 
@@ -337,24 +338,28 @@ Before submitting the final camera ready copy, remember to:
 
 [6
 
-] (./hripaper.aux) ) 
+] (/home/dante/work/uic-academics/fall25/531/week7/hripaper.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4150 strings out of 478287
- 64239 string characters out of 5849288
- 385141 words of memory out of 5000000
- 22323 multiletter control sequences out of 15000+600000
+ 4155 strings out of 478287
+ 64685 string characters out of 5849288
+ 385087 words of memory out of 5000000
+ 22327 multiletter control sequences out of 15000+600000
  503664 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,8n,62p,1669b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri
-8a.pfb>
-Output written on hripaper.pdf (6 pages, 118456 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/
+times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /home/dante/work/uic-academics/fall25/531/week7/hripaper.pdf 
+(6 pages, 120068 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
